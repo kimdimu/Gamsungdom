@@ -10,8 +10,7 @@ public class ScoreManager : MonoBehaviour
 
     void Update()
     {
+
         ScoreText.text = "점수 : " + Mathf.Round(Score);
     }
-
-
 }

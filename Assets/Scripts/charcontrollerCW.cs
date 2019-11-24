@@ -22,7 +22,7 @@ public class charcontrollerCW : MonoBehaviour
 
     void Start()
     {
-        Cursor.lockState = CursorLockMode.Locked;       //
+       // Cursor.lockState = CursorLockMode.Locked;       //
 
         r_body = GetComponent<Rigidbody>();
         anima = GetComponent<Animator>();
@@ -50,10 +50,10 @@ public class charcontrollerCW : MonoBehaviour
             isdash = true;
         DashCW();
 
-        if (Input.GetKeyDown("escape"))
-        {
-            Cursor.lockState = CursorLockMode.None;
-        }
+        //if (Input.GetKeyDown("escape"))
+        //{
+        //    Cursor.lockState = CursorLockMode.None;
+        //}
 
         TurnCW();
     }

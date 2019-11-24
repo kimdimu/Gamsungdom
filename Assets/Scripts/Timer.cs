@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class Timer : MonoBehaviour
 {
@@ -12,5 +13,10 @@ public class Timer : MonoBehaviour
     {
         LimitTime -= Time.deltaTime;
         scoreText.text = "남은 시간 : " + Mathf.Round(LimitTime);
+
+        if (LimitTime <= 50)
+        {
+            SceneManager.LoadScene("cOverScene");
+        }
     }
 }
