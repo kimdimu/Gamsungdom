@@ -14,7 +14,7 @@ public class Timer : MonoBehaviour
         LimitTime -= Time.deltaTime;
         scoreText.text = "남은 시간 : " + Mathf.Round(LimitTime);
 
-        if (LimitTime <= 50)
+        if (LimitTime <= 0)
         {
             SceneManager.LoadScene("cOverScene");
         }

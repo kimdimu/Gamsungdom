@@ -11,7 +11,8 @@ public class Hitplayer : MonoBehaviour
 
         if (CountManager.Count % 3 == 0)
         {
-            transform.localScale += new Vector3(30, 30, 30);
+            transform.localScale += new Vector3(3, 3, 3);
+            transform.localPosition += new Vector3(0, 2, 0);
             // Destroy(other.transform);
         }
         else if (CountManager.Count == 49)
@@ -38,6 +39,21 @@ public class Hitplayer : MonoBehaviour
         else if (other.transform.tag == "lv4")
         {
             ScoreManager.Score = ScoreManager.Score + 4;
+            other.gameObject.SetActive(false);
+        }
+        else if (other.transform.tag == "lv5")
+        {
+            ScoreManager.Score = ScoreManager.Score + 5;
+            other.gameObject.SetActive(false);
+        }
+        else if (other.transform.tag == "lv6")
+        {
+            ScoreManager.Score = ScoreManager.Score + 6;
+            other.gameObject.SetActive(false);
+        }
+        else if (other.transform.tag == "lv7")
+        {
+            ScoreManager.Score = ScoreManager.Score + 7;
             other.gameObject.SetActive(false);
         }
         else

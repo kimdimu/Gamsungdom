@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/cOverScene.unity
+- path: Assets/Scenes/bMainScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
