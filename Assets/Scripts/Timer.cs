@@ -17,6 +17,7 @@ public class Timer : MonoBehaviour
         if (LimitTime <= 0)
         {
             SceneManager.LoadScene("cOverScene");
+            Cursor.lockState = CursorLockMode.None;
         }
     }
 }

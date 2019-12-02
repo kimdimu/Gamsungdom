@@ -22,7 +22,7 @@ public class charcontrollerCW : MonoBehaviour
 
     void Start()
     {
-       // Cursor.lockState = CursorLockMode.Locked;       //
+        Cursor.lockState = CursorLockMode.Locked;
 
         r_body = GetComponent<Rigidbody>();
         anima = GetComponent<Animator>();
@@ -35,12 +35,19 @@ public class charcontrollerCW : MonoBehaviour
 
         transform.Translate(h, 0, v);
 
-        if (h != 0f || v != 0f){
-            anima.SetBool("isRun", true);
+        if (Input.GetMouseButtonDown(0))
+        {
+            transform.localRotation = Quaternion.identity;
         }
-        else {
-            anima.SetBool("isRun", false);
-        }
+
+        //if (h != 0f || v != 0f)
+        //{
+        //    anima.SetBool("isRun", true);
+        //}
+        //else
+        //{
+        //    anima.SetBool("isRun", false);
+        //}
 
         if (Input.GetButtonDown("Jump"))
             isjumping = true;
@@ -50,10 +57,10 @@ public class charcontrollerCW : MonoBehaviour
             isdash = true;
         DashCW();
 
-        //if (Input.GetKeyDown("escape"))
-        //{
-        //    Cursor.lockState = CursorLockMode.None;
-        //}
+        if (Input.GetKeyDown("escape"))
+        {
+            Cursor.lockState = CursorLockMode.None;
+        }
 
         TurnCW();
     }

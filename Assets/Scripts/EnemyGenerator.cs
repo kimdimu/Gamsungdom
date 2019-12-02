@@ -16,9 +16,9 @@ public class EnemyGenerator : MonoBehaviour
         {
             this.delta = 0;
             GameObject enemy = Instantiate(enemyfab) as GameObject;
-            float x = Random.Range(-50, 50); //랜덤 생성 범위 지정
-            float y = Random.Range(-50, 50);
-            float z = Random.Range(-50, 50);
+            float x = Random.Range(-100, 100); //랜덤 생성 범위 지정
+            float y = Random.Range(-100, 100);
+            float z = Random.Range(-100, 100);
             enemy.transform.position = new Vector3(x, y, z);
 
         }
