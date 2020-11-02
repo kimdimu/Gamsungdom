@@ -434,3 +434,663 @@ C:\Users\U507-24\Desktop\유니티,코딩\GamsungDom\obj\Debug\Assembly-CSharp.c
 C:\Users\U507-24\Desktop\유니티,코딩\GamsungDom\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
 C:\Users\U507-24\Desktop\유니티,코딩\GamsungDom\obj\Debug\Assembly-CSharp.dll
 C:\Users\U507-24\Desktop\유니티,코딩\GamsungDom\obj\Debug\Assembly-CSharp.pdb
+D:\GamsungDom (3)\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\GamsungDom (3)\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\GamsungDom (3)\obj\Debug\Assembly-CSharp.dll
+D:\GamsungDom (3)\obj\Debug\Assembly-CSharp.pdb
+D:\GamsungDom (3)\Temp\bin\Debug\Assembly-CSharp.dll
+D:\GamsungDom (3)\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\GamsungDom (3)\Temp\bin\Debug\Cinemachine.dll
+D:\GamsungDom (3)\Temp\bin\Debug\com.unity.cinemachine.editor.dll
+D:\GamsungDom (3)\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\GamsungDom (3)\Temp\bin\Debug\mscorlib.dll
+D:\GamsungDom (3)\Temp\bin\Debug\netstandard.dll
+D:\GamsungDom (3)\Temp\bin\Debug\nunit.framework.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.AppContext.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Collections.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.ComponentModel.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Console.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Core.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Data.Common.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Data.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Drawing.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Globalization.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.IO.Compression.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.IO.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.IO.Pipes.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Linq.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Net.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Net.Http.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Net.Ping.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Net.Primitives.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Net.Requests.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Net.Security.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Net.Sockets.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Numerics.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.ObjectModel.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Reflection.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Resources.Reader.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Resources.Writer.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Runtime.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Security.Claims.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Security.Principal.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Security.SecureString.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Text.Encoding.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Threading.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Threading.Thread.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Threading.Timer.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Transactions.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.ValueTuple.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Web.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Windows.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Xml.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Xml.Linq.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Xml.XPath.dll
+D:\GamsungDom (3)\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\GamsungDom (3)\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+D:\GamsungDom (3)\Temp\bin\Debug\Unity.Analytics.Editor.dll
+D:\GamsungDom (3)\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+D:\GamsungDom (3)\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+D:\GamsungDom (3)\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\GamsungDom (3)\Temp\bin\Debug\Unity.Locator.dll
+D:\GamsungDom (3)\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+D:\GamsungDom (3)\Temp\bin\Debug\Unity.Postprocessing.Editor.dll
+D:\GamsungDom (3)\Temp\bin\Debug\Unity.Postprocessing.Runtime.dll
+D:\GamsungDom (3)\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\GamsungDom (3)\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\GamsungDom (3)\Temp\bin\Debug\Unity.Timeline.dll
+D:\GamsungDom (3)\Temp\bin\Debug\Unity.Timeline.Editor.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEditor.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.UI.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\GamsungDom (3)\Temp\bin\Debug\Unity.Cecil.dll
+D:\GamsungDom (3)\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\GamsungDom (3)\Temp\bin\Debug\Unity.DataContract.dll
+D:\GamsungDom (3)\Temp\bin\Debug\ExCSS.Unity.dll
+D:\GamsungDom (3)\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\GamsungDom (3)\Temp\bin\Debug\Unity.IvyParser.dll
+D:\GamsungDom (3)\Temp\bin\Debug\Unity.CecilTools.dll
+D:\GamsungDom (3)\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+D:\GamsungDom (3)\Temp\bin\Debug\Cinemachine.pdb
+D:\GamsungDom (3)\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\GamsungDom (3)\Temp\bin\Debug\Unity.PackageManagerUI.Editor.pdb
+D:\GamsungDom (3)\Temp\bin\Debug\Unity.Timeline.pdb
+D:\GamsungDom (3)\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\GamsungDom (3)\Temp\bin\Debug\Unity.Postprocessing.Editor.pdb
+D:\GamsungDom (3)\Temp\bin\Debug\Unity.Postprocessing.Runtime.pdb
+D:\GamsungDom (3)\Temp\bin\Debug\com.unity.cinemachine.editor.pdb
+D:\GamsungDom (3)\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\GamsungDom (3)\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
+D:\GamsungDom (3)\Temp\bin\Debug\nunit.framework.xml
+D:\GamsungDom (3)\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Assembly-CSharp.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Cinemachine.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\com.unity.cinemachine.editor.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\mscorlib.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\netstandard.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\nunit.framework.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.AppContext.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Collections.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.ComponentModel.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Console.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Core.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Data.Common.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Data.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Drawing.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Globalization.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.IO.Compression.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.IO.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.IO.Pipes.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Linq.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Net.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Net.Http.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Net.Ping.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Net.Primitives.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Net.Requests.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Net.Security.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Net.Sockets.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Numerics.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.ObjectModel.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Reflection.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Resources.Reader.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Resources.Writer.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Runtime.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Security.Claims.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Security.Principal.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Security.SecureString.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Text.Encoding.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Threading.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Threading.Thread.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Threading.Timer.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Transactions.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.ValueTuple.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Web.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Windows.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Xml.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Xml.Linq.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Xml.XPath.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Unity.Analytics.Editor.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Unity.Locator.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Unity.Postprocessing.Editor.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Unity.Postprocessing.Runtime.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Unity.Timeline.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Unity.Timeline.Editor.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEditor.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.UI.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Unity.Cecil.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Unity.DataContract.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\ExCSS.Unity.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Unity.IvyParser.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Unity.CecilTools.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Cinemachine.pdb
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Unity.PackageManagerUI.Editor.pdb
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Unity.Timeline.pdb
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Unity.Postprocessing.Editor.pdb
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Unity.Postprocessing.Runtime.pdb
+D:\GAMSUNGdom_new1\Temp\bin\Debug\com.unity.cinemachine.editor.pdb
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
+D:\GAMSUNGdom_new1\Temp\bin\Debug\nunit.framework.xml
+D:\GAMSUNGdom_new1\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\GAMSUNGdom_new1\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\GAMSUNGdom_new1\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\GAMSUNGdom_new1\obj\Debug\Assembly-CSharp.dll
+D:\GAMSUNGdom_new1\obj\Debug\Assembly-CSharp.pdb
+D:\GAMSUNGdom_new1\Temp\bin\Debug\Boo.Lang.dll
+D:\GAMSUNGdom_new1\Temp\bin\Debug\UnityEditor.UI.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Assembly-CSharp.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Cinemachine.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\com.unity.cinemachine.editor.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\mscorlib.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\netstandard.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\nunit.framework.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.AppContext.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Collections.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.ComponentModel.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Console.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Core.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Data.Common.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Data.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Drawing.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Globalization.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.IO.Compression.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.IO.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.IO.Pipes.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Linq.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Net.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Net.Http.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Net.Ping.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Net.Primitives.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Net.Requests.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Net.Security.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Net.Sockets.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Numerics.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.ObjectModel.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Reflection.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Resources.Reader.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Resources.Writer.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Runtime.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Security.Claims.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Security.Principal.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Security.SecureString.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Text.Encoding.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Threading.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Threading.Thread.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Threading.Timer.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Transactions.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.ValueTuple.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Web.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Windows.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Xml.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Xml.Linq.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Xml.XPath.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Unity.Analytics.Editor.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Unity.Locator.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Unity.Postprocessing.Editor.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Unity.Postprocessing.Runtime.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Unity.Timeline.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Unity.Timeline.Editor.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEditor.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.UI.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Unity.Cecil.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Unity.DataContract.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\ExCSS.Unity.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Unity.IvyParser.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Unity.CecilTools.dll
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Cinemachine.pdb
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Unity.PackageManagerUI.Editor.pdb
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Unity.Timeline.pdb
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Unity.Postprocessing.Editor.pdb
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Unity.Postprocessing.Runtime.pdb
+D:\GAMSUNGdom_new2\Temp\bin\Debug\com.unity.cinemachine.editor.pdb
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\GAMSUNGdom_new2\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
+D:\GAMSUNGdom_new2\Temp\bin\Debug\nunit.framework.xml
+D:\GAMSUNGdom_new2\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\GAMSUNGdom_new2\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\GAMSUNGdom_new2\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\GAMSUNGdom_new2\obj\Debug\Assembly-CSharp.dll
+D:\GAMSUNGdom_new2\obj\Debug\Assembly-CSharp.pdb
+C:\Users\U507-24\Documents\카카오톡 받은 파일\GAMSUNGdom_new2\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\U507-24\Documents\카카오톡 받은 파일\GAMSUNGdom_new2\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\U507-24\Documents\카카오톡 받은 파일\GAMSUNGdom_new2\obj\Debug\Assembly-CSharp.dll
+C:\Users\U507-24\Documents\카카오톡 받은 파일\GAMSUNGdom_new2\obj\Debug\Assembly-CSharp.pdb

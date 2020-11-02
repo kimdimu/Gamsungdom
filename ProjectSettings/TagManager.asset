@@ -13,6 +13,8 @@ TagManager:
   - lv7
   - lv8
   - lv1
+  - lv100
+  - mount
   layers:
   - Default
   - TransparentFX

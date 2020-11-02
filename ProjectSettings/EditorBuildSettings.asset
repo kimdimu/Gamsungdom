@@ -5,13 +5,28 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/aStartScene.unity
-    guid: 825ecd2315279b942a39ec61c4aa1290
+    guid: 3ddda8a829e3d6744990480fbf1cd291
   - enabled: 1
     path: Assets/Scenes/bMainScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
     path: Assets/Scenes/cOverScene.unity
+    guid: b78dd8c3278a9d745bbcc4fd29efb129
+  - enabled: 1
+    path: Assets/Scenes/dTutoScene.unity
+    guid: a60b5325e65188f47b6e224e79dbae77
+  - enabled: 1
+    path: Assets/Scenes/eFinishScene.unity
+    guid: b5ba46c84d47f2b40a73081d10b46e60
+  - enabled: 1
+    path: Assets/Scenes/fCartoonScene.unity
+    guid: 7ce38df528cb57e4d92ac2a73ab812f4
+  - enabled: 1
+    path: Assets/Scenes/fOverScene.unity
     guid: 9bc869378230e9e4a86b0ef4033b5b8a
   m_configObjects: {}
